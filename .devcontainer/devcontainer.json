@@ -20,6 +20,7 @@
 		"python.linting.pydocstylePath": "/usr/local/py-utils/bin/pydocstyle",
 		"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint"
 	},
+	"forwardPorts": [8000],
 	"extensions": [
 		"ms-python.python"
 	],
